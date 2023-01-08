@@ -1,0 +1,11 @@
+{
+    "name": "saleh/first_plugin",
+    "description": "saleh package",
+    "type": "project",
+    "license": "GPL",
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\": "./inc"}
+    }
+}
